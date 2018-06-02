@@ -1,3 +1,7 @@
 Parthiv Mohan
 
 For multiple groups of n points with a certain class c I assigned the class whose points were closest on average to my point p.
+
+Run either knnvalidation.py or knntest.py; don't be alarmed if the code takes a few minutes to complete.
+
+Datasets contained in /digitsDataset.
