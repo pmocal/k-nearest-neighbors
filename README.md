@@ -4,7 +4,7 @@ After cloning this git directory run the following command to install required l
 
 Run either `knnvalidation.py`, which prints out the errorcount, or `knntest.py` to label images in `/digitsDataset`.
 Expect the programs to take a few minutes to complete. Data is read from `/digitsDataset` and results are also written
-to that directory. [README](digitsDataset/dataset.txt) details the nature of the datasets.
+to that directory. Read [here](digitsDataset/datasetInfo.txt) about the datasets.
 
 For multiple groups of __n__ points with a certain class __c__, I assigned the class whose points were closest on average
 to my point __p__.
