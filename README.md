@@ -1,4 +1,4 @@
-For multiple groups of __n__ points with a certain class __c__ I assigned the class whose points were closest on average
+For multiple groups of __n__ points with a certain class __c__, I assigned the class whose points were closest on average
 to my point __p__.
 
 After cloning the directory run the following command to install required libraries: `pip install -r requirements.txt`
