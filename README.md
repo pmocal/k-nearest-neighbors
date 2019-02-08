@@ -1,8 +1,10 @@
-For multiple groups of __n__ points with a certain class __c__, I assigned the class whose points were closest on average
-to my point __p__.
+To run the code first you must have Python installed on your computer. If you are using Python 2 >=2.7.9 or Python 3 >=3.4 downloaded from python.org or if you are working in a Virtual Environment created by virtualenv or pyvenv then Pip is also installed.
 
-After cloning the directory run the following command to install required libraries: `pip install -r requirements.txt`
+After cloning this git directory run the following command to install required libraries: `pip install -r requirements.txt`
 
 Run either `knnvalidation.py`, which prints out the errorcount, or `knntest.py` to label images in `/digitsDataset`.
 Expect the programs to take a few minutes to complete. Data is read from `/digitsDataset` and results are also written
 to that directory. [README](digitsDataset/README.txt) details the nature of the datasets.
+
+For multiple groups of __n__ points with a certain class __c__, I assigned the class whose points were closest on average
+to my point __p__.
