@@ -22,4 +22,8 @@ if you're using Python 3.
 
 ## Running the code
 
-`knnvalidation.py` prints out the errorcount and `knntest.py` labels the images in `/digitsDataset`. Expect the programs to take a few minutes to complete. Data is read from `/digitsDataset` and results are written to that directory.
+`knnvalidation.py` prints out the errorcount and `knntest.py` labels the images in `/digitsDataset`.
+
+Expect the programs to take a few minutes to complete.
+
+Data is read from `/digitsDataset` and results are written to that directory.
