@@ -17,6 +17,3 @@ Digits Dataset
 4. Format
 	-	In each *Labels.csv, each line has one label from 0 through 9 representing the digit value.
 	-	In each *Features.csv, each line represents a feature vector where each feature is separated by a comma.
-
-5. Extra Information
-    -   On the course web page we have provided an extra file with images of each of the digits.
